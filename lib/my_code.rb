@@ -1,3 +1,3 @@
 # Your Code Here
 
-def map_method()
+def my_own_map()
