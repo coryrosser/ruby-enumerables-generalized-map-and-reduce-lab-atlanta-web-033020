@@ -11,7 +11,15 @@ def map(array)
 end
 
 def reduce(array, start = nil )
-  new_array = [] 
+if start
+  num1 = start
   i = 0 
-  while i < array.length do 
-    new
+else 
+  num1 = array[0]
+  i = 1 
+end
+
+
+
+
+end
